@@ -5,7 +5,7 @@
   "main": "backend/server.js",
   "scripts": {
     "start": "node backend/server.js",
-    "build": "npm --prefix frontend install && npm --prefix frontend run build",
+    "build": "cd frontend && npm install && npm run build",
     "dev:backend": "node backend/server.js",
     "dev:frontend": "npm --prefix frontend run dev",
     "dev": "concurrently -n \"API,WEB\" -c \"cyan,magenta\" \"npm run dev:backend\" \"npm run dev:frontend\""
