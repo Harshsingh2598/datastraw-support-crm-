@@ -13,7 +13,7 @@ Dear Ozair, Aryan, and the Datastraw Talent Team,
 I am excited to submit my full-stack assignment for the **Customer Support Ticketing CRM System** ("OmniDesk CRM"). I built this project from scratch with a focus on production reliability, modern design aesthetics, and genuine utility for real-world support teams.
 
 ### 🔗 Project Deliverables
-- **Live Deployed Application:** `https://datastraw-support-crm.onrender.com` *(Replace with your deployed URL)*
+- **Live Deployed Application:** `https://datastraw-support-crm-60j3.onrender.com`
 - **GitHub Repository:** `https://github.com/Harshsingh2598/datastraw-support-crm-`
 - **Demo Video Walkthrough (3-5 min):** `https://youtu.be/your-video-id` *(Replace with your YouTube/Loom link)*
 
