@@ -1,0 +1,9 @@
+node_modules/
+frontend/node_modules/
+backend/crm.db
+backend/crm.db-shm
+backend/crm.db-wal
+.DS_Store
+*.log
+.env
+

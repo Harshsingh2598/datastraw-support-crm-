@@ -1,0 +1,33 @@
+{
+  "name": "datastraw_crm",
+  "version": "1.0.0",
+  "description": "Datastraw Hiring Assignment - Enterprise Customer Support Ticketing CRM System",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "build": "npm --prefix frontend install && npm --prefix frontend run build",
+    "dev:backend": "node backend/server.js",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "dev": "concurrently -n \"API,WEB\" -c \"cyan,magenta\" \"npm run dev:backend\" \"npm run dev:frontend\""
+  },
+  "keywords": [
+    "crm",
+    "customer-support",
+    "ticketing-system",
+    "fullstack",
+    "react",
+    "express",
+    "sqlite"
+  ],
+  "author": "Harsh Singh",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.4"
+  }
+}
