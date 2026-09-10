@@ -3,7 +3,7 @@
 > **Submission for Datastraw Technologies Assessment Test**  
 > **Candidate:** Harsh Singh  
 > **Role:** Full-Stack Engineering Intern  
-> **Submission Email:** ozair.shaikh@datastraw.in, aryan.jaiswal@datastraw.in, talent@datastraw.in  
+  
 
 ---
 
