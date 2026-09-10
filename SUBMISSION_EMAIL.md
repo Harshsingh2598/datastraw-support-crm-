@@ -14,7 +14,7 @@ I am excited to submit my full-stack assignment for the **Customer Support Ticke
 
 ### 🔗 Project Deliverables
 - **Live Deployed Application:** `https://datastraw-support-crm.onrender.com` *(Replace with your deployed URL)*
-- **GitHub Repository:** `https://github.com/your-username/datastraw-support-crm` *(Replace with your GitHub URL)*
+- **GitHub Repository:** `https://github.com/Harshsingh2598/datastraw-support-crm-`
 - **Demo Video Walkthrough (3-5 min):** `https://youtu.be/your-video-id` *(Replace with your YouTube/Loom link)*
 
 ---

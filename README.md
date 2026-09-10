@@ -10,7 +10,7 @@
 ## 🚀 Live Demo & Repository Links
 
 - **Live Deployed Application:** `https://datastraw-support-crm.onrender.com` *(or your deployed Render/Railway URL)*
-- **GitHub Repository:** `https://github.com/your-username/datastraw-support-crm`
+- **GitHub Repository:** `https://github.com/Harshsingh2598/datastraw-support-crm-`
 - **Video Walkthrough (3-5 min):** `https://youtu.be/your-demo-video-link`
 
 ---
